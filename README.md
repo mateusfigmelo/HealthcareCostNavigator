@@ -50,7 +50,7 @@ A comprehensive healthcare cost comparison platform with a FastAPI backend and R
    # Note: The app will work without OpenAI API key using fallback methods
    ```
 
-3. **Download sample data**
+3. **Download [sample data](https://catalog.data.gov/dataset/medicare-inpatient-hospitals-by-provider-and-service-9af02/resource/e51cf14c-615a-4efe-ba6b-3a3ef15dcfb0)**
    ```bash
    # Download the CMS sample data (15k Alabama records)
    # Place it as sample_prices_ny.csv in the project root
